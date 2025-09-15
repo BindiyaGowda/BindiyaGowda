@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 <h1 align="center">Hi 👋, I'm Bindiya M</h1>
 <h3 align="center">A passionate about DevOps tools</h3>
@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bindiyagowda&label=Profile%20views&color=0e75b6&style=flat" alt="bindiyagowda" /> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **DevOps** Projects
 
-- 🌱 I’m currently learning **upgrading my DevOps skill's**
+- 🌱 I’m currently learning and **upgrading my skill's of DevOps**
 
-- 🤝 I’m looking for help with **Reference**
+- 🤝 I’m looking for **Reference** help to get into "IT" back
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bindiya-m-14496biya/](https://www.linkedin.com/in/bindiya-m-14496biya/)
 
