@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./dev3.webp)
 
 <h1 align="center">Hi 👋, I'm Bindiya M</h1>
 <h3 align="center">A passionate about DevOps tools</h3>
